@@ -1,4 +1,8 @@
 _repo: A-Treatise-on-Hat-Making-and-Felting-Including-a-Full-Exposition-of-the-Singular-Properties-o__47090
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47090-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Thomson, John Stuart
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '31989'
     url: http://www.gutenberg.org/2009/agents/31989
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47090#A-Treatise-on-Hat-Making-and-Felting-Including-a-Full-Exposition-of-the-Singular-Properties-o_
 gutenberg_bookshelf: Crafts
 gutenberg_issued: '2014-10-10'
 gutenberg_type: Text
